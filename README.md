@@ -25,10 +25,14 @@ I'm always trying to add new modules. The currently available modules are:
 
 - archive
 - blockinfile
+- command
 - copy
 - fetch
 - file
+- get_url
 - group
+- lineinfile
+- script
 - service
 - shell
 - synchronize
@@ -36,6 +40,7 @@ I'm always trying to add new modules. The currently available modules are:
 - template
 - unarchive
 - user
+
 
 Installation
 ---
